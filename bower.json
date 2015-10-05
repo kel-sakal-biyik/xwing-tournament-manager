@@ -1,0 +1,31 @@
+{
+  "name": "xwing-tournament-manager",
+  "version": "1.0.0",
+  "homepage": "https://github.com/kel-sakal-biyik/xwing-tournament-manager",
+  "authors": [
+    "KelSakalBiyik <ugurkorfali@gmail.com>"
+  ],
+  "description": "Swiss Chess tournament manager specialized for Star Wars  X-Wing",
+  "keywords": [
+    "x-wing",
+    "tournament",
+    "swiss",
+    "chess"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6",
+    "angular-sanitize": "~1.4.6",
+    "angular-ui-router": "~0.2.15"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.6"
+  }
+}
